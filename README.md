@@ -30,8 +30,8 @@
     <!-- ▼ 日付別リンク追加 ▼ -->
     <h2>ブログ一覧</h2>
   <ul>
-  <li><a href="june-first-2025-index.html">2025年6月1日</a></li>
-  <li><a href="june-twenty-2025-index.html">2025年6月20日</a></li>
+  <li><https://hikari-hikaru.github.io/dairy1/</a></li>
+  <li><https://hikari-hikaru.github.io/dairy2/">2025年6月20日</a></li>
 </ul>
   </main>
 
