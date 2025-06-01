@@ -22,13 +22,6 @@
       background-color: black;
       z-index: 9999;
     }
-
-    img {
-      width: 300px;
-      user-select: none;
-      pointer-events: auto;
-      -webkit-user-drag: none;
-    }
   </style>
 </head>
 <body>
