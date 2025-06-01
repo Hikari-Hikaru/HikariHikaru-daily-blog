@@ -67,26 +67,5 @@
   <footer>
     <small>&copy; 1994 HIKARI HIKARU All rights reserved.</small>
   </footer>
-
-  <script>
-    const image = document.getElementById("protectedImage");
-    const blackout = document.getElementById("blackout");
-
-    let touchTimer;
-
-    image.addEventListener("touchstart", () => {
-      touchTimer = setTimeout(() => {
-        blackout.style.display = "block";
-      }, 500); // 0.5秒以上押すと黒くなる
-    });
-
-    image.addEventListener("touchend", () => {
-      clearTimeout(touchTimer);
-    });
-
-    blackout.addEventListener("click", () => {
-      blackout.style.display = "none";
-    });
-  </script>
 </body>
 </html>
