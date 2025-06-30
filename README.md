@@ -46,7 +46,8 @@
     <h2>ブログ一覧</h2>
     <ul>
       <li><a href="https://hikari-hikaru.github.io/dairy1/">2025年6月2日（dairy1ページ）</a></li>
-       <li><a href="https://hikari-hikaru.github.io/dairy2/">2025年6月19日（dairy2ページ）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/dairy2/">2025年6月19日（dairy2ページ）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/Hikari-Hikaru-News/">2025年6月30日（HikariHikaruNewsページ）</a></li> 
     </ul>
   </main>
 
