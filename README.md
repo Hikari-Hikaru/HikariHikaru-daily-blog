@@ -50,6 +50,7 @@
       <li><a href="https://hikari-hikaru.github.io/Hikari-Hikaru-News/">2025年6月30日（HikariHikaruNewsページ）</a></li> 
       <li><a href="https://hikari-hikaru.github.io/daily3/">2025年7月5日（dairy3ページ）</a></li>
       <li><a href="https://hikari-hikaru.github.io/dairy4/">2025年7月15日（dairy4ページ）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/dairy___5/">2025年7月28日（dairy5ページ）</a></li>
     </ul>
   </main>
 
