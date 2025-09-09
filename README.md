@@ -52,7 +52,7 @@
       <li><a href="https://hikari-hikaru.github.io/dairy4/">2025年7月15日（dairy4ページ）</a></li>
       <li><a href="https://hikari-hikaru.github.io/dairy___5/">2025年7月28日（dairy5ページ）</a></li>
      <li><a href="https://hikari-hikaru.github.io/HIKARI-HIKARU_Birthday-2025/">2025年8月10日（ " HIKARI-HIKARU_Birthday-2025 "ページ）</a></li> 
-      <li><a href="https://hikari-hikaru.github.io/diary6/">2025年7月28日（dairy6ページ）</a></li>
+      <li><a href="https://hikari-hikaru.github.io/diary6/">2025年9月1日（dairy6ページ）</a></li>
     </ul>
   </main>
 
